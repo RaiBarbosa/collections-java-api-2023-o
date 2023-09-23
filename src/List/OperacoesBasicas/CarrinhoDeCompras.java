@@ -20,7 +20,7 @@ public class CarrinhoDeCompras {
     }
 
     public void adicionarQuantidade (int quantidade){
-        carrinho.add(new Itens(quantidade))
+        carrinho.add(new Itens(quantidade));
     }
 
 
